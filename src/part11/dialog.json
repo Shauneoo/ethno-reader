@@ -1,0 +1,1094 @@
+[
+  {
+    "id": 0,
+    "time": "08/05/2018 11:00:02",
+    "message": {"lat":55.94588991063746,"lng":-3.20058195897473},
+    "orgin": "geo"
+  },
+  {
+    "id": 1,
+    "time": "08/05/2018 11:00:22",
+    "message": "Hello, I am Ethnobot",
+    "orgin": "bot"
+  },
+  {
+    "id": 2,
+    "time": "08/05/2018 11:00:26",
+    "message": "\\What's your name?\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 3,
+    "time": "15/05/2018 14:08:03",
+    "message": "Fiona",
+    "orgin": "human"
+  },
+  {
+    "id": 4,
+    "time": "15/05/2018 14:08:04",
+    "message": "Hi {previousValue}, nice to meet you!",
+    "orgin": "bot"
+  },
+  {
+    "id": 5,
+    "time": "15/05/2018 14:08:05",
+    "message": "What�s your Job?",
+    "orgin": "bot"
+  },
+  {
+    "id": 6,
+    "time": "15/05/2018 14:08:25",
+    "message": "I�m the director of The Fruitmarket Gallery",
+    "orgin": "human"
+  },
+  {
+    "id": 7,
+    "time": "15/05/2018 14:08:26",
+    "message": "Today I want you to help with a specific strand of Research for the Edinburgh City Council�s Public art research Project.",
+    "orgin": "bot"
+  },
+  {
+    "id": 8,
+    "time": "15/05/2018 14:08:27",
+    "message": "You will take me on a curated experience involving three works of art; art that is transformative, contentious, and new.",
+    "orgin": "bot"
+  },
+  {
+    "id": 9,
+    "time": "15/05/2018 14:08:28",
+    "message": "Are you ready to get started?",
+    "orgin": "bot"
+  },
+  {
+    "id": 10,
+    "time": "15/05/2018 14:08:40",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 11,
+    "time": "15/05/2018 14:08:43",
+    "message": "\\Great!\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 12,
+    "time": "15/05/2018 14:08:43",
+    "message": {"lat":55.9462136841765,"lng":-3.200662061583689},
+    "orgin": "geo"
+  },
+  {
+    "id": 13,
+    "time": "15/05/2018 14:08:44",
+    "message": "Please take me to a public work of art that is transformative...",
+    "orgin": "bot"
+  },
+  {
+    "id": 14,
+    "time": "15/05/2018 14:08:45",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 15,
+    "time": "15/05/2018 14:08:46",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 16,
+    "time": "15/05/2018 14:25:58",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 17,
+    "time": "15/05/2018 14:26:01",
+    "message": "\\What are we looking at? Take a pic and tell me it�s name.\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 18,
+    "time": "15/05/2018 14:26:01",
+    "message": "IMG_0075.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 19,
+    "time": "15/05/2018 14:26:01",
+    "message": {"lat":55.95131509138978,"lng":-3.1882925567880793},
+    "orgin": "geo"
+  },
+  {
+    "id": 20,
+    "time": "15/05/2018 14:26:14",
+    "message": "and it�s name.",
+    "orgin": "bot"
+  },
+  {
+    "id": 21,
+    "time": "15/05/2018 14:26:43",
+    "message": "Martin Creed�s Work No 1059 on the Scotsman steps",
+    "orgin": "human"
+  },
+  {
+    "id": 22,
+    "time": "15/05/2018 14:26:44",
+    "message": "Alright, I am gonna ask some deep questions now.",
+    "orgin": "bot"
+  },
+  {
+    "id": 23,
+    "time": "15/05/2018 14:26:45",
+    "message": "Who or what is this transformative for and why?",
+    "orgin": "bot"
+  },
+  {
+    "id": 24,
+    "time": "15/05/2018 14:30:30",
+    "message": "OK. Firstly, it�s transformative for the steps. It has literally transformed them from a set of steps that were uneven, smelly, dirty, unsavoury and unsafe into steps that are even, beautiful and a destination for art lovers and seekers after beauty rather than drug takers and rough sleepers (though in my view they are still welcome). Secondly, they are transformative for me - they transform my journey round the city: I go out of my way to use them, and my mood lightens and my day improves when I do. And they are transformative of what people�s idea of art can be: art can be a set of steps that make you think about/enjoy going up and down steps.",
+    "orgin": "human"
+  },
+  {
+    "id": 25,
+    "time": "15/05/2018 14:30:31",
+    "message": "Are others affected?",
+    "orgin": "bot"
+  },
+  {
+    "id": 26,
+    "time": "15/05/2018 14:30:33",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 27,
+    "time": "15/05/2018 14:30:36",
+    "message": "Who and Why?",
+    "orgin": "bot"
+  },
+  {
+    "id": 28,
+    "time": "15/05/2018 14:31:18",
+    "message": "Sorry - I covered that before. I meant not just me. I just saw a couple photographing them because they had enjoyed them.",
+    "orgin": "human"
+  },
+  {
+    "id": 29,
+    "time": "15/05/2018 14:31:19",
+    "message": "Sorry - I covered that before. I meant not just me. I just saw a couple photographing them because they had enjoyed them.",
+    "orgin": "human"
+  },
+  {
+    "id": 30,
+    "time": "15/05/2018 14:31:21",
+    "message": "Sorry - I covered that before. I meant not just me. I just saw a couple photographing them because they had enjoyed them.",
+    "orgin": "human"
+  },
+  {
+    "id": 31,
+    "time": "15/05/2018 14:31:23",
+    "message": "Could you please expand on the quality, taste, and appropriateness of this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "id": 32,
+    "time": "15/05/2018 14:31:28",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 33,
+    "time": "15/05/2018 14:31:30",
+    "message": "Focus on any or all points and take a pic if it helps.",
+    "orgin": "bot"
+  },
+  {
+    "id": 34,
+    "time": "15/05/2018 14:31:31",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 35,
+    "time": "15/05/2018 14:31:35",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 36,
+    "time": "15/05/2018 14:31:35",
+    "message": "IMG_0076.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 37,
+    "time": "15/05/2018 14:32:53",
+    "message": "High quality in terms of installation. Very large, hard to do slabs (as opposed to tiles). Every one a different colour (no skimping!).",
+    "orgin": "human"
+  },
+  {
+    "id": 38,
+    "time": "15/05/2018 14:32:54",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 39,
+    "time": "15/05/2018 14:32:57",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 40,
+    "time": "15/05/2018 14:34:26",
+    "message": "Quality and subtlety of idea: many people do not realise its an art work - at all, or only half way up or down. It works as an artwork anyway. That�s (in my view) one of the things art should do - exist alongside people, subtlety affecting how they are/move/think in the world.",
+    "orgin": "human"
+  },
+  {
+    "id": 41,
+    "time": "15/05/2018 14:34:27",
+    "message": "Quality and subtlety of idea: many people do not realise its an art work - at all, or only half way up or down. It works as an artwork anyway. That�s (in my view) one of the things art should do - exist alongside people, subtlety affecting how they are/move/think in the world.",
+    "orgin": "human"
+  },
+  {
+    "id": 42,
+    "time": "15/05/2018 14:34:30",
+    "message": "Quality and subtlety of idea: many people do not realise its an art work - at all, or only half way up or down. It works as an artwork anyway. That�s (in my view) one of the things art should do - exist alongside people, subtlety affecting how they are/move/think in the world.",
+    "orgin": "human"
+  },
+  {
+    "id": 43,
+    "time": "15/05/2018 14:35:14",
+    "message": "It�s durational. Not much public art is. You get to interact with it, share its space and time.",
+    "orgin": "human"
+  },
+  {
+    "id": 44,
+    "time": "15/05/2018 14:35:15",
+    "message": "It�s durational. Not much public art is. You get to interact with it, share its space and time.",
+    "orgin": "human"
+  },
+  {
+    "id": 45,
+    "time": "15/05/2018 14:35:17",
+    "message": "It�s durational. Not much public art is. You get to interact with it, share its space and time.",
+    "orgin": "human"
+  },
+  {
+    "id": 46,
+    "time": "15/05/2018 14:35:20",
+    "message": "Could you expand on the context about this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "id": 47,
+    "time": "15/05/2018 14:35:28",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 48,
+    "time": "15/05/2018 14:35:30",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "id": 49,
+    "time": "15/05/2018 14:37:06",
+    "message": "It�s in the city. It frames /curates views of  the city and introduces people to part of the historic fabric of the city but with something contemporary. It doesn�t lecture you about how the old town relates to the new in terms of levels / it just takes you there.",
+    "orgin": "human"
+  },
+  {
+    "id": 50,
+    "time": "15/05/2018 14:37:07",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 51,
+    "time": "15/05/2018 14:37:10",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 52,
+    "time": "15/05/2018 14:37:12",
+    "message": "Would you like to say anything else about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "id": 53,
+    "time": "15/05/2018 14:37:17",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 54,
+    "time": "15/05/2018 14:37:19",
+    "message": "Tell me about it and take a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "id": 55,
+    "time": "15/05/2018 14:37:21",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 56,
+    "time": "15/05/2018 14:37:24",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 57,
+    "time": "15/05/2018 14:37:24",
+    "message": "IMG_0077.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 58,
+    "time": "15/05/2018 14:38:38",
+    "message": "I wish it was kept cleaner. This is a good day but still, look at all the chewing gum.",
+    "orgin": "human"
+  },
+  {
+    "id": 59,
+    "time": "15/05/2018 14:38:40",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 60,
+    "time": "15/05/2018 14:38:49",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 61,
+    "time": "15/05/2018 14:39:38",
+    "message": "I like that it offers views from it as well as views of it. (I�d take a picture if I could)",
+    "orgin": "human"
+  },
+  {
+    "id": 62,
+    "time": "15/05/2018 14:39:39",
+    "message": "I like that it offers views from it as well as views of it. (I�d take a picture if I could)",
+    "orgin": "human"
+  },
+  {
+    "id": 63,
+    "time": "15/05/2018 14:39:40",
+    "message": "I like that it offers views from it as well as views of it. (I�d take a picture if I could)",
+    "orgin": "human"
+  },
+  {
+    "id": 64,
+    "time": "15/05/2018 14:39:43",
+    "message": "\\Great let�s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 65,
+    "time": "15/05/2018 14:39:43",
+    "message": {"lat":55.95126570320493,"lng":-3.188536063316882},
+    "orgin": "geo"
+  },
+  {
+    "id": 66,
+    "time": "15/05/2018 14:39:44",
+    "message": "Please take me to a public work of art that is contentious...",
+    "orgin": "bot"
+  },
+  {
+    "id": 67,
+    "time": "15/05/2018 14:39:45",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 68,
+    "time": "15/05/2018 14:39:46",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 69,
+    "time": "15/05/2018 14:39:51",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 70,
+    "time": "15/05/2018 14:39:51",
+    "message": {"lat":55.95191700777488,"lng":-3.188847879860685},
+    "orgin": "geo"
+  },
+  {
+    "id": 71,
+    "time": "15/05/2018 14:39:53",
+    "message": "What�s going on? Take a pic and tell me about it...",
+    "orgin": "bot"
+  },
+  {
+    "id": 72,
+    "time": "15/05/2018 14:39:54",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 73,
+    "time": "15/05/2018 14:39:59",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 74,
+    "time": "15/05/2018 14:40:32",
+    "message": "Sorry, I was hoping you�d expand on what you mean by contentious.",
+    "orgin": "human"
+  },
+  {
+    "id": 75,
+    "time": "15/05/2018 14:40:33",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 76,
+    "time": "15/05/2018 14:40:34",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 77,
+    "time": "15/05/2018 14:40:37",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 78,
+    "time": "15/05/2018 14:40:38",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 79,
+    "time": "15/05/2018 14:53:16",
+    "message": {"lat":55.951246792368906,"lng":-3.189304164444386},
+    "orgin": "geo"
+  },
+  {
+    "id": 80,
+    "time": "15/05/2018 14:53:16",
+    "message": "\\No\\",
+    "orgin": "human"
+  },
+  {
+    "id": 81,
+    "time": "15/05/2018 14:53:19",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 82,
+    "time": "15/05/2018 14:53:20",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 83,
+    "time": "15/05/2018 14:53:29",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 84,
+    "time": "15/05/2018 14:54:35",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 85,
+    "time": "15/05/2018 14:54:36",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 86,
+    "time": "15/05/2018 14:54:38",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 87,
+    "time": "15/05/2018 14:54:40",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 88,
+    "time": "15/05/2018 14:54:41",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 89,
+    "time": "15/05/2018 15:00:25",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 90,
+    "time": "15/05/2018 15:00:27",
+    "message": {"lat":55.953356144387946,"lng":-3.1871038106334355},
+    "orgin": "geo"
+  },
+  {
+    "id": 91,
+    "time": "15/05/2018 15:00:27",
+    "message": "\\What are we looking at? Take a pic and tell me it�s name.\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 92,
+    "time": "15/05/2018 15:00:36",
+    "message": "IMG_0078.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 93,
+    "time": "15/05/2018 15:00:36",
+    "message": "and it�s name.",
+    "orgin": "bot"
+  },
+  {
+    "id": 94,
+    "time": "15/05/2018 15:01:10",
+    "message": "Callum Innes�s The Regent Bridge",
+    "orgin": "human"
+  },
+  {
+    "id": 95,
+    "time": "15/05/2018 15:01:11",
+    "message": "What makes this work of art contentious? And for whom?",
+    "orgin": "bot"
+  },
+  {
+    "id": 96,
+    "time": "15/05/2018 15:02:27",
+    "message": "It is contentious for me because although the label and the lights are still here it is not switched on. Therefore it is not here - it�s like a painting removed from its frame or a sculpture stolen from its plinth.",
+    "orgin": "human"
+  },
+  {
+    "id": 97,
+    "time": "15/05/2018 15:02:28",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 98,
+    "time": "15/05/2018 15:02:30",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 99,
+    "time": "15/05/2018 15:04:26",
+    "message": "I think it was contentious when first installed because for some people me it was �only� light. The meaning was located in the way it illuminated the stones of an extraordinary bridge and in the changing light. It was about changing light. Some people thought it wasn�t really art. Some people who recognised it as art thought it wasn�t good enough as art.",
+    "orgin": "human"
+  },
+  {
+    "id": 100,
+    "time": "15/05/2018 15:04:27",
+    "message": "I think it was contentious when first installed because for some people me it was �only� light. The meaning was located in the way it illuminated the stones of an extraordinary bridge and in the changing light. It was about changing light. Some people thought it wasn�t really art. Some people who recognised it as art thought it wasn�t good enough as art.",
+    "orgin": "human"
+  },
+  {
+    "id": 101,
+    "time": "15/05/2018 15:04:36",
+    "message": "I think it was contentious when first installed because for some people me it was �only� light. The meaning was located in the way it illuminated the stones of an extraordinary bridge and in the changing light. It was about changing light. Some people thought it wasn�t really art. Some people who recognised it as art thought it wasn�t good enough as art.",
+    "orgin": "human"
+  },
+  {
+    "id": 102,
+    "time": "15/05/2018 15:04:39",
+    "message": "Our research shows contention raises issues of inclusivity and exclusivity... Does this work of art have issues with inclusivity and exclusivity?",
+    "orgin": "bot"
+  },
+  {
+    "id": 103,
+    "time": "15/05/2018 15:04:54",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 104,
+    "time": "15/05/2018 15:04:56",
+    "message": "No, how so?",
+    "orgin": "bot"
+  },
+  {
+    "id": 105,
+    "time": "15/05/2018 15:06:56",
+    "message": "I don�t think so. It�s not contentious because it makes people feel in or out of the �know�. It�s more subtle than that: it was contentious when first installed the way all public art can be - it changes something people know. But this work welcomes all opinions, I think.",
+    "orgin": "human"
+  },
+  {
+    "id": 106,
+    "time": "15/05/2018 15:06:57",
+    "message": "Similarly contentious works of art have elements of trust and risk. Can you expand on either or both?",
+    "orgin": "bot"
+  },
+  {
+    "id": 107,
+    "time": "15/05/2018 15:07:01",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 108,
+    "time": "15/05/2018 15:07:03",
+    "message": "Tell me about it and take a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "id": 109,
+    "time": "15/05/2018 15:07:04",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 110,
+    "time": "15/05/2018 15:07:08",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 111,
+    "time": "15/05/2018 15:08:11",
+    "message": "I like trust and risk: that�s what artists do, take risks. And we trust them and they trust us. Artists and audiences have to trust each other to work together to make meaning, which is a risky business.",
+    "orgin": "human"
+  },
+  {
+    "id": 112,
+    "time": "15/05/2018 15:08:12",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 113,
+    "time": "15/05/2018 15:08:13",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 114,
+    "time": "15/05/2018 15:08:16",
+    "message": "Would you like to say anything more about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "id": 115,
+    "time": "15/05/2018 15:08:22",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 116,
+    "time": "15/05/2018 15:08:24",
+    "message": "Tell me about it and take a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "id": 117,
+    "time": "15/05/2018 15:08:25",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 118,
+    "time": "15/05/2018 15:08:26",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 119,
+    "time": "15/05/2018 15:10:04",
+    "message": "I�d like to say something about time. About recognising the lifespan of a work. Some things should be temporary, and all things need to be assessed regularly to determine whether the work has degraded so that the meaning is lost (as here) or whether the degradation can be part of the new meaning.",
+    "orgin": "human"
+  },
+  {
+    "id": 120,
+    "time": "15/05/2018 15:10:05",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 121,
+    "time": "15/05/2018 15:10:06",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 122,
+    "time": "15/05/2018 15:10:09",
+    "message": "{lat:55.95395775651193,lng:-3.1873019719512894}",
+    "orgin": "geo"
+  },
+  {
+    "id": 123,
+    "time": "15/05/2018 15:10:09",
+    "message": "\\Great let�s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 124,
+    "time": "15/05/2018 15:10:10",
+    "message": "Could you please take me to a public space that could use a new work of art or somewhere where a public work of art could be replaced?",
+    "orgin": "bot"
+  },
+  {
+    "id": 125,
+    "time": "15/05/2018 15:10:11",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 126,
+    "time": "15/05/2018 15:10:12",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 127,
+    "time": "15/05/2018 15:14:00",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 128,
+    "time": "15/05/2018 15:14:02",
+    "message": "Are we placing or replacing?",
+    "orgin": "bot"
+  },
+  {
+    "id": 129,
+    "time": "15/05/2018 15:14:06",
+    "message": "Replace",
+    "orgin": "human"
+  },
+  {
+    "id": 130,
+    "time": "15/05/2018 15:14:08",
+    "message": "What are we replacing and why? Please take a pic...",
+    "orgin": "bot"
+  },
+  {
+    "id": 131,
+    "time": "15/05/2018 15:17:28",
+    "message": "I�m taking a picture of this whole site. It�s fascinating. The big hole where the St James Centre was, the joy of which (the unexpected insight into the city) should be captured somehow, the space outside the cathedral where the Paolozzis were - people love them where they are now so that�s a success - and then these inexplicable giraffes. People like them, but they don�t mean anything in my view, and I would love to think that an artist or artists could be set to work thinking through this site and how art could work within it.",
+    "orgin": "human"
+  },
+  {
+    "id": 132,
+    "time": "15/05/2018 15:17:29",
+    "message": "How does this disrupt the space? And who will be affected and why?",
+    "orgin": "bot"
+  },
+  {
+    "id": 133,
+    "time": "15/05/2018 15:18:21",
+    "message": "It sits alongside a tree, in front of a very ugly building. It gives people a focus for taking selfies. It could do more than that.",
+    "orgin": "human"
+  },
+  {
+    "id": 134,
+    "time": "15/05/2018 15:18:22",
+    "message": "Could you list the agencies, parties and individuals that should be involved for placing a work of art here?",
+    "orgin": "bot"
+  },
+  {
+    "id": 135,
+    "time": "15/05/2018 15:18:27",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 136,
+    "time": "15/05/2018 15:19:06",
+    "message": "An artist. Someone who knows the space and how it is used. Someone who can unlock some money.",
+    "orgin": "human"
+  },
+  {
+    "id": 137,
+    "time": "15/05/2018 15:19:07",
+    "message": "Is that all?",
+    "orgin": "bot"
+  },
+  {
+    "id": 138,
+    "time": "15/05/2018 15:19:11",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 139,
+    "time": "15/05/2018 15:19:13",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "id": 140,
+    "time": "15/05/2018 15:20:29",
+    "message": "Probably not. But I would start with an artist. Or maybe someone who could think of an interesting artist. So a curator and an artist. And they would involve everyone else, from architect and town planner to audience, in the right order.",
+    "orgin": "human"
+  },
+  {
+    "id": 141,
+    "time": "15/05/2018 15:20:30",
+    "message": "Probably not. But I would start with an artist. Or maybe someone who could think of an interesting artist. So a curator and an artist. And they would involve everyone else, from architect and town planner to audience, in the right order.",
+    "orgin": "human"
+  },
+  {
+    "id": 142,
+    "time": "15/05/2018 15:20:31",
+    "message": "Probably not. But I would start with an artist. Or maybe someone who could think of an interesting artist. So a curator and an artist. And they would involve everyone else, from architect and town planner to audience, in the right order.",
+    "orgin": "human"
+  },
+  {
+    "id": 143,
+    "time": "15/05/2018 15:20:34",
+    "message": "Our research shows the process for a public art project can lack transparency for interested parties. Given the place and potentiality for a work of art here, can you imagine what a transparent process would be?",
+    "orgin": "bot"
+  },
+  {
+    "id": 144,
+    "time": "15/05/2018 15:20:42",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 145,
+    "time": "15/05/2018 15:20:44",
+    "message": "Please give me insight by steps or association and order-of groups involved.",
+    "orgin": "bot"
+  },
+  {
+    "id": 146,
+    "time": "15/05/2018 15:23:09",
+    "message": "Transparency is an odd word. Artistic processes are not always transparent. But people don�t like feeling hoodwinked. People respond well to the sense that an artist has made something in good faith, with a purpose, in order to improve somewhere. The process needs to make this clear. So, work with an artist who is good at engaging people. Or work with a process (like the 4th plinth, a good model) that people can understand and feel part of.",
+    "orgin": "human"
+  },
+  {
+    "id": 147,
+    "time": "15/05/2018 15:23:10",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 148,
+    "time": "15/05/2018 15:23:12",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 149,
+    "time": "15/05/2018 15:23:14",
+    "message": "Well, that�s a lot to think about... Are there any other issues that you would like to address in the context of process?",
+    "orgin": "bot"
+  },
+  {
+    "id": 150,
+    "time": "15/05/2018 15:23:20",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 151,
+    "time": "15/05/2018 15:23:23",
+    "message": "In this place and process, what expertise does the public have to offer?",
+    "orgin": "bot"
+  },
+  {
+    "id": 152,
+    "time": "15/05/2018 15:24:41",
+    "message": "Expertise - that depends what expertise they have: everyone is a member of the public (artists too!). As an audience, they have a role and a responsibility to co-author the work, to give it context, meaning, a home.",
+    "orgin": "human"
+  },
+  {
+    "id": 153,
+    "time": "15/05/2018 15:24:42",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 154,
+    "time": "15/05/2018 15:24:45",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 155,
+    "time": "15/05/2018 15:26:00",
+    "message": "Just to be clear: the public are not experts. None of us should ever be given what we want. We should be given what we could never dream we could have. Artists can do this. And enlightened commissioners/curators can help them.",
+    "orgin": "human"
+  },
+  {
+    "id": 156,
+    "time": "15/05/2018 15:26:01",
+    "message": "Just to be clear: the public are not experts. None of us should ever be given what we want. We should be given what we could never dream we could have. Artists can do this. And enlightened commissioners/curators can help them.",
+    "orgin": "human"
+  },
+  {
+    "id": 157,
+    "time": "15/05/2018 15:26:04",
+    "message": "Just to be clear: the public are not experts. None of us should ever be given what we want. We should be given what we could never dream we could have. Artists can do this. And enlightened commissioners/curators can help them.",
+    "orgin": "human"
+  },
+  {
+    "id": 158,
+    "time": "15/05/2018 15:26:06",
+    "message": "Our research indicates particular issues are left out of the conversation when logistics and process take precedent about the use of a public space. Can you reflect on...?",
+    "orgin": "bot"
+  },
+  {
+    "id": 159,
+    "time": "15/05/2018 15:26:19",
+    "message": "Well Being",
+    "orgin": "human"
+  },
+  {
+    "id": 160,
+    "time": "15/05/2018 15:26:22",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "id": 161,
+    "time": "15/05/2018 15:26:23",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 162,
+    "time": "15/05/2018 15:26:24",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 163,
+    "time": "15/05/2018 15:26:45",
+    "message": "Art enhances our lives. Hence, well being",
+    "orgin": "human"
+  },
+  {
+    "id": 164,
+    "time": "15/05/2018 15:26:46",
+    "message": "Anything else?",
+    "orgin": "bot"
+  },
+  {
+    "id": 165,
+    "time": "15/05/2018 15:26:47",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 166,
+    "time": "15/05/2018 15:26:50",
+    "message": "Would you Like to address a different issue?",
+    "orgin": "bot"
+  },
+  {
+    "id": 167,
+    "time": "15/05/2018 15:26:55",
+    "message": "Other",
+    "orgin": "human"
+  },
+  {
+    "id": 168,
+    "time": "15/05/2018 15:26:58",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "id": 169,
+    "time": "15/05/2018 15:26:59",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 170,
+    "time": "15/05/2018 15:27:01",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 171,
+    "time": "15/05/2018 15:27:44",
+    "message": "I�m running out of the capacity to type while sitting in the street. But all those issues pertain. Or can do.",
+    "orgin": "human"
+  },
+  {
+    "id": 172,
+    "time": "15/05/2018 15:27:45",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 173,
+    "time": "15/05/2018 15:27:46",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 174,
+    "time": "15/05/2018 15:27:49",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 175,
+    "time": "15/05/2018 15:27:51",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 176,
+    "time": "15/05/2018 15:27:53",
+    "message": "Would you like to say anything more about any issues related to our current conversation?",
+    "orgin": "bot"
+  },
+  {
+    "id": 177,
+    "time": "15/05/2018 15:27:55",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 178,
+    "time": "15/05/2018 15:27:58",
+    "message": "That�s pretty much everything!",
+    "orgin": "bot"
+  },
+  {
+    "id": 179,
+    "time": "15/05/2018 15:27:59",
+    "message": "Thank you for your patience and participation But before you return me, do you have anything you would like to underscore or add to the conversation?",
+    "orgin": "bot"
+  },
+  {
+    "id": 180,
+    "time": "15/05/2018 15:28:11",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 181,
+    "time": "15/05/2018 15:28:13",
+    "message": "That�s all good. You�ve been a great help towards this research....",
+    "orgin": "bot"
+  }
+]

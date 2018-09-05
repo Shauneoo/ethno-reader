@@ -1,0 +1,854 @@
+[
+  {
+    "id": 0,
+    "time": "26/04/2018 10:05:18",
+    "message": "Hello, I am Ethnobot",
+    "orgin": "bot"
+  },
+  {
+    "id": 1,
+    "time": "26/04/2018 10:05:19",
+    "message": "\\What's your name?\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 2,
+    "time": "26/04/2018 10:05:19",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 3,
+    "time": "26/04/2018 11:07:45",
+    "message": "Sally Kerr",
+    "orgin": "human"
+  },
+  {
+    "id": 4,
+    "time": "26/04/2018 11:07:46",
+    "message": "Hi {previousValue}, nice to meet you!",
+    "orgin": "bot"
+  },
+  {
+    "id": 5,
+    "time": "26/04/2018 11:07:47",
+    "message": "What’s your Job?",
+    "orgin": "bot"
+  },
+  {
+    "id": 6,
+    "time": "26/04/2018 11:08:01",
+    "message": "Digital Innovation Manager",
+    "orgin": "human"
+  },
+  {
+    "id": 7,
+    "time": "26/04/2018 11:08:02",
+    "message": "Today I want you to help with a specific strand of Research for the Edinburgh City Council’s Public art research Project.",
+    "orgin": "bot"
+  },
+  {
+    "id": 8,
+    "time": "26/04/2018 11:08:03",
+    "message": "You will take me on a curated experience involving three works of art; art that is transformative, contentious, and new.",
+    "orgin": "bot"
+  },
+  {
+    "id": 9,
+    "time": "26/04/2018 11:08:04",
+    "message": "Are you ready to get started?",
+    "orgin": "bot"
+  },
+  {
+    "id": 10,
+    "time": "26/04/2018 11:08:09",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 11,
+    "time": "26/04/2018 11:08:11",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 12,
+    "time": "26/04/2018 11:08:11",
+    "message": ",\"\\\"Great!\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 13,
+    "time": "26/04/2018 11:08:12",
+    "message": "Please take me to a public work of art that is transformative...",
+    "orgin": "bot"
+  },
+  {
+    "id": 14,
+    "time": "26/04/2018 11:08:13",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 15,
+    "time": "26/04/2018 11:08:14",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 16,
+    "time": "26/04/2018 11:15:11",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 17,
+    "time": "26/04/2018 11:15:13",
+    "message": "What are we looking at? Take a pic and tell me it’s name.",
+    "orgin": "bot"
+  },
+  {
+    "id": 18,
+    "time": "26/04/2018 11:15:13",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 19,
+    "time": "26/04/2018 11:15:13",
+    "message": "IMG_0058.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 20,
+    "time": "26/04/2018 11:16:05",
+    "message": "and it’s name.",
+    "orgin": "bot"
+  },
+  {
+    "id": 21,
+    "time": "26/04/2018 11:16:12",
+    "message": "Everyman",
+    "orgin": "human"
+  },
+  {
+    "id": 22,
+    "time": "26/04/2018 11:16:13",
+    "message": "Alright, I am gonna ask some deep questions now.",
+    "orgin": "bot"
+  },
+  {
+    "id": 23,
+    "time": "26/04/2018 11:16:14",
+    "message": "Who or what is this transformative for and why?",
+    "orgin": "bot"
+  },
+  {
+    "id": 24,
+    "time": "26/04/2018 11:18:19",
+    "message": "It is meant to represent people in the city but it was created by a non local artist. I think it is more that it’s meant to be a generic image of the councils focus on the city but it lacks the sense of place a local artist could bring.",
+    "orgin": "human"
+  },
+  {
+    "id": 25,
+    "time": "26/04/2018 11:18:20",
+    "message": "Are others affected?",
+    "orgin": "bot"
+  },
+  {
+    "id": 26,
+    "time": "26/04/2018 11:18:23",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 27,
+    "time": "26/04/2018 11:18:25",
+    "message": "Could you please expand on the quality, taste, and appropriateness of this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "id": 28,
+    "time": "26/04/2018 11:18:32",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 29,
+    "time": "26/04/2018 11:18:34",
+    "message": "Focus on any or all points and take a pic if it helps.",
+    "orgin": "bot"
+  },
+  {
+    "id": 30,
+    "time": "26/04/2018 11:18:36",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 31,
+    "time": "26/04/2018 11:18:38",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 32,
+    "time": "26/04/2018 11:20:03",
+    "message": "The art work is too simplistic for me. I’d like to have seen something more suitable to the city. This statue has been reused in other cities so it’s not even unique.",
+    "orgin": "human"
+  },
+  {
+    "id": 33,
+    "time": "26/04/2018 11:20:04",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 34,
+    "time": "26/04/2018 11:20:06",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 35,
+    "time": "26/04/2018 11:20:08",
+    "message": "Could you expand on the context about this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "id": 36,
+    "time": "26/04/2018 11:20:13",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 37,
+    "time": "26/04/2018 11:20:15",
+    "message": "Would you like to say anything else about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "id": 38,
+    "time": "26/04/2018 11:20:18",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 39,
+    "time": "26/04/2018 11:20:20",
+    "message": ",\"\\\"Great let’s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 40,
+    "time": "26/04/2018 11:20:20",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 41,
+    "time": "26/04/2018 11:20:21",
+    "message": "Please take me to a public work of art that is contentious...",
+    "orgin": "bot"
+  },
+  {
+    "id": 42,
+    "time": "26/04/2018 11:20:22",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 43,
+    "time": "26/04/2018 11:20:23",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 44,
+    "time": "26/04/2018 11:26:33",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 45,
+    "time": "26/04/2018 11:26:35",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 46,
+    "time": "26/04/2018 11:26:35",
+    "message": ",\"\\\"What are we looking at? Take a pic and tell me it’s name.\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 47,
+    "time": "26/04/2018 11:26:35",
+    "message": "IMG_0059.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 48,
+    "time": "26/04/2018 11:26:46",
+    "message": "and it’s name.",
+    "orgin": "bot"
+  },
+  {
+    "id": 49,
+    "time": "26/04/2018 11:27:00",
+    "message": "Scottish Parliament",
+    "orgin": "human"
+  },
+  {
+    "id": 50,
+    "time": "26/04/2018 11:27:01",
+    "message": "What makes this work of art contentious? And for whom?",
+    "orgin": "bot"
+  },
+  {
+    "id": 51,
+    "time": "26/04/2018 11:27:37",
+    "message": "The cost, for those paying (the public)",
+    "orgin": "human"
+  },
+  {
+    "id": 52,
+    "time": "26/04/2018 11:27:38",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 53,
+    "time": "26/04/2018 11:27:42",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 54,
+    "time": "26/04/2018 11:29:49",
+    "message": "This is an amazing piece of art and architecture. Scotland is so lucky to have this but the talk was all about the money. It’s European design which is also has Scottish references means it is truly unique and politically the Scottish Parliament is recognised internationally",
+    "orgin": "human"
+  },
+  {
+    "id": 55,
+    "time": "26/04/2018 11:29:50",
+    "message": "This is an amazing piece of art and architecture. Scotland is so lucky to have this but the talk was all about the money. It’s European design which is also has Scottish references means it is truly unique and politically the Scottish Parliament is recognised internationally",
+    "orgin": "human"
+  },
+  {
+    "id": 56,
+    "time": "26/04/2018 11:29:51",
+    "message": "This is an amazing piece of art and architecture. Scotland is so lucky to have this but the talk was all about the money. It’s European design which is also has Scottish references means it is truly unique and politically the Scottish Parliament is recognised internationally",
+    "orgin": "human"
+  },
+  {
+    "id": 57,
+    "time": "26/04/2018 11:29:53",
+    "message": "Our research shows contention raises issues of inclusivity and exclusivity... Does this work of art have issues with inclusivity and exclusivity?",
+    "orgin": "bot"
+  },
+  {
+    "id": 58,
+    "time": "26/04/2018 11:30:00",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 59,
+    "time": "26/04/2018 11:30:02",
+    "message": "No, how so?",
+    "orgin": "bot"
+  },
+  {
+    "id": 60,
+    "time": "26/04/2018 11:30:18",
+    "message": "Because it is for an entire nation",
+    "orgin": "human"
+  },
+  {
+    "id": 61,
+    "time": "26/04/2018 11:30:19",
+    "message": "Similarly contentious works of art have elements of trust and risk. Can you expand on either or both?",
+    "orgin": "bot"
+  },
+  {
+    "id": 62,
+    "time": "26/04/2018 11:30:27",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 63,
+    "time": "26/04/2018 11:30:29",
+    "message": "No, why not?",
+    "orgin": "bot"
+  },
+  {
+    "id": 64,
+    "time": "26/04/2018 11:31:17",
+    "message": "Because any new work that represents an entity has these elements. It’s part of the territory and so normal.",
+    "orgin": "human"
+  },
+  {
+    "id": 65,
+    "time": "26/04/2018 11:31:18",
+    "message": "Would you like to say anything more about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "id": 66,
+    "time": "26/04/2018 11:31:21",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 67,
+    "time": "26/04/2018 11:31:24",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 68,
+    "time": "26/04/2018 11:31:24",
+    "message": ",\"\\\"Great let’s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 69,
+    "time": "26/04/2018 11:31:25",
+    "message": "Could you please take me to a public space that could use a new work of art or somewhere where a public work of art could be replaced?",
+    "orgin": "bot"
+  },
+  {
+    "id": 70,
+    "time": "26/04/2018 11:31:26",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "id": 71,
+    "time": "26/04/2018 11:31:27",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "id": 72,
+    "time": "26/04/2018 11:35:24",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 73,
+    "time": "26/04/2018 11:35:27",
+    "message": "Are we placing or replacing?",
+    "orgin": "bot"
+  },
+  {
+    "id": 74,
+    "time": "26/04/2018 11:35:30",
+    "message": "New",
+    "orgin": "human"
+  },
+  {
+    "id": 75,
+    "time": "26/04/2018 11:35:32",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 76,
+    "time": "26/04/2018 11:35:32",
+    "message": "Where are we? Take a pic too",
+    "orgin": "bot"
+  },
+  {
+    "id": 77,
+    "time": "26/04/2018 11:35:32",
+    "message": "IMG_0060.JPG",
+    "orgin": "img"
+  },
+  {
+    "id": 78,
+    "time": "26/04/2018 11:36:19",
+    "message": "Black ford Hill looking towards Arthur’s seat",
+    "orgin": "human"
+  },
+  {
+    "id": 79,
+    "time": "26/04/2018 11:36:20",
+    "message": "Why have you chosen this place?",
+    "orgin": "bot"
+  },
+  {
+    "id": 80,
+    "time": "26/04/2018 11:36:21",
+    "message": "Add a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "id": 81,
+    "time": "26/04/2018 11:36:22",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 82,
+    "time": "26/04/2018 11:36:24",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 83,
+    "time": "26/04/2018 11:39:06",
+    "message": "Edinburgh is built on seven hills. They are iconic viewpoints in the city loved by citizens, tourists and visitors. Walkers and runners use them every day. Biodiversity is huge with many species living on them. They represent the geological history of Edinburgh which is volcanic. There is an opportunity here to create contemporary art works to celebrate their different characters",
+    "orgin": "human"
+  },
+  {
+    "id": 84,
+    "time": "26/04/2018 11:39:07",
+    "message": "How does this disrupt the space? And who will be affected and why?",
+    "orgin": "bot"
+  },
+  {
+    "id": 85,
+    "time": "26/04/2018 11:41:20",
+    "message": "It would be quite disruptive in terms of heritage which has supporters for not adding contemporary work and those who would like to move Edinburgh, now a cosmopolitanism and international city, into an artistic future. For local people it would be very contentious",
+    "orgin": "human"
+  },
+  {
+    "id": 86,
+    "time": "26/04/2018 11:41:21",
+    "message": "Could you list the agencies, parties and individuals that should be involved for placing a work of art here?",
+    "orgin": "bot"
+  },
+  {
+    "id": 87,
+    "time": "26/04/2018 11:41:35",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 88,
+    "time": "26/04/2018 11:43:04",
+    "message": "Edinburgh Council and various departments, Scottish wildlife trust, Hudtorc Environment Scotland, Scottish Government, Creative Scotland and many others",
+    "orgin": "human"
+  },
+  {
+    "id": 89,
+    "time": "26/04/2018 11:43:05",
+    "message": "Is that all?",
+    "orgin": "bot"
+  },
+  {
+    "id": 90,
+    "time": "26/04/2018 11:43:08",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 91,
+    "time": "26/04/2018 11:43:10",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "id": 92,
+    "time": "26/04/2018 11:43:19",
+    "message": "Too many to name",
+    "orgin": "human"
+  },
+  {
+    "id": 93,
+    "time": "26/04/2018 11:43:20",
+    "message": "Too many to name",
+    "orgin": "human"
+  },
+  {
+    "id": 94,
+    "time": "26/04/2018 11:43:21",
+    "message": "Too many to name",
+    "orgin": "human"
+  },
+  {
+    "id": 95,
+    "time": "26/04/2018 11:43:23",
+    "message": "Our research shows the process for a public art project can lack transparency for interested parties. Given the place and potentiality for a work of art here, can you imagine what a transparent process would be?",
+    "orgin": "bot"
+  },
+  {
+    "id": 96,
+    "time": "26/04/2018 11:43:30",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 97,
+    "time": "26/04/2018 11:43:32",
+    "message": "Please give me insight by steps or association and order-of groups involved.",
+    "orgin": "bot"
+  },
+  {
+    "id": 98,
+    "time": "26/04/2018 11:46:29",
+    "message": "Full on public engagement for this project would be essential with co-design included. There would be a number of art groups in the city who would want to be interested as well as professional bodies.",
+    "orgin": "human"
+  },
+  {
+    "id": 99,
+    "time": "26/04/2018 11:46:30",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 100,
+    "time": "26/04/2018 11:46:33",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 101,
+    "time": "26/04/2018 11:47:35",
+    "message": "Yes, I would recommend we change our approach to commissioning art to a collective one where participation and design is done as part of the process.",
+    "orgin": "human"
+  },
+  {
+    "id": 102,
+    "time": "26/04/2018 11:47:36",
+    "message": "Yes, I would recommend we change our approach to commissioning art to a collective one where participation and design is done as part of the process.",
+    "orgin": "human"
+  },
+  {
+    "id": 103,
+    "time": "26/04/2018 11:47:38",
+    "message": "Yes, I would recommend we change our approach to commissioning art to a collective one where participation and design is done as part of the process.",
+    "orgin": "human"
+  },
+  {
+    "id": 104,
+    "time": "26/04/2018 11:47:40",
+    "message": "Well, that’s a lot to think about... Are there any other issues that you would like to address in the context of process?",
+    "orgin": "bot"
+  },
+  {
+    "id": 105,
+    "time": "26/04/2018 11:48:05",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 106,
+    "time": "26/04/2018 11:48:07",
+    "message": "In this place and process, what expertise does the public have to offer?",
+    "orgin": "bot"
+  },
+  {
+    "id": 107,
+    "time": "26/04/2018 11:48:58",
+    "message": "Their sense of place. They live in the environment but they also want to have a say in how it changes and evolves",
+    "orgin": "human"
+  },
+  {
+    "id": 108,
+    "time": "26/04/2018 11:48:59",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 109,
+    "time": "26/04/2018 11:49:01",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 110,
+    "time": "26/04/2018 11:49:03",
+    "message": "Our research indicates particular issues are left out of the conversation when logistics and process take precedent about the use of a public space. Can you reflect on...?",
+    "orgin": "bot"
+  },
+  {
+    "id": 111,
+    "time": "26/04/2018 11:49:18",
+    "message": "Enjoyment & Pleasure",
+    "orgin": "human"
+  },
+  {
+    "id": 112,
+    "time": "26/04/2018 11:49:20",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "id": 113,
+    "time": "26/04/2018 11:49:21",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 114,
+    "time": "26/04/2018 11:49:23",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 115,
+    "time": "26/04/2018 11:51:18",
+    "message": "There should be fun, enjoyment and pleasure before, during and after the process for a new piece of public art. By engaging all ages and relevant audiences for the work you will create sustainable ownership and appreciation",
+    "orgin": "human"
+  },
+  {
+    "id": 116,
+    "time": "26/04/2018 11:51:19",
+    "message": "Anything else?",
+    "orgin": "bot"
+  },
+  {
+    "id": 117,
+    "time": "26/04/2018 11:51:20",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 118,
+    "time": "26/04/2018 11:51:23",
+    "message": "Would you Like to address a different issue?",
+    "orgin": "bot"
+  },
+  {
+    "id": 119,
+    "time": "26/04/2018 11:51:32",
+    "message": "Education",
+    "orgin": "human"
+  },
+  {
+    "id": 120,
+    "time": "26/04/2018 11:51:35",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "id": 121,
+    "time": "26/04/2018 11:51:36",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 122,
+    "time": "26/04/2018 11:51:37",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 123,
+    "time": "26/04/2018 11:52:25",
+    "message": "There should be a consistent element of learning for any commission pitched from kids to older folk.",
+    "orgin": "human"
+  },
+  {
+    "id": 124,
+    "time": "26/04/2018 11:52:27",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "id": 125,
+    "time": "26/04/2018 11:52:29",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 126,
+    "time": "26/04/2018 11:52:31",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 127,
+    "time": "26/04/2018 11:52:33",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 128,
+    "time": "26/04/2018 11:52:35",
+    "message": "Would you like to say anything more about any issues related to our current conversation?",
+    "orgin": "bot"
+  },
+  {
+    "id": 129,
+    "time": "26/04/2018 11:52:44",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "id": 130,
+    "time": "26/04/2018 11:52:48",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "id": 131,
+    "time": "26/04/2018 11:52:49",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 132,
+    "time": "26/04/2018 11:57:31",
+    "message": "In Edinburgh public art is contentious and a difficult path to navigate. Any changes to existing work such as removal, always causes uproar even if there is a good reason. New work has to recognise its place in the city as it was, currently is and will evolve in the future. New buildings bring the worst reactions and contemporary builds tend to fail on the visual front fir this reason. Everyone tries too hard. There should be more flexibility towards the development of Edinburgh as a city but its history and its politics make this challenging. The commissioning process and even the understanding of what is a public work of art, are also challenging.",
+    "orgin": "human"
+  },
+  {
+    "id": 133,
+    "time": "26/04/2018 11:57:32",
+    "message": "Anything else?",
+    "orgin": "bot"
+  },
+  {
+    "id": 134,
+    "time": "26/04/2018 11:57:34",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 135,
+    "time": "26/04/2018 11:57:36",
+    "message": "That’s pretty much everything!",
+    "orgin": "bot"
+  },
+  {
+    "id": 136,
+    "time": "26/04/2018 11:57:37",
+    "message": "Thank you for your patience and participation But before you return me, do you have anything you would like to underscore or add to the conversation?",
+    "orgin": "bot"
+  },
+  {
+    "id": 137,
+    "time": "26/04/2018 11:57:42",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "id": 138,
+    "time": "26/04/2018 11:57:44",
+    "message": "That’s all good. You’ve been a great help towards this research....",
+    "orgin": "bot"
+  },
+  {
+    "id": 139,
+    "time": "26/04/2018 11:57:45",
+    "message": {"lat":0, "lng": 0},
+    "orgin": "geo"
+  },
+  {
+    "id": 140,
+    "time": "26/04/2018 11:57:45",
+    "message": ",\"\\\"Please return me to the researchers.\\",
+    "orgin": "bot"
+  },
+  {
+    "id": 141,
+    "time": "",
+    "message": "Tell me about it and take a pic if it helps...",
+    "orgin": "human"
+  }
+]

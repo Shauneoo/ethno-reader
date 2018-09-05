@@ -1,0 +1,872 @@
+[
+  {
+    "time": "03/05/2018 10:59:10",
+    "message": "Hello, I am Ethnobot",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:05:11",
+    "message": {"lat":55.94606371707705,"lng":-3.200915188167427},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 11:05:11",
+    "message": "\\What's your name?\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:05:52",
+    "message": "Fiona Rankin",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:05:53",
+    "message": "Hi {previousValue}, nice to meet you!",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:05:54",
+    "message": "What’s your Job?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:07:57",
+    "message": "World Heritage Site Project Manager",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:07:59",
+    "message": "Today I want you to help with a specific strand of Research for the Edinburgh City Council’s Public art research Project.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:08:00",
+    "message": "You will take me on a curated experience involving three works of art; art that is transformative, contentious, and new.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:08:01",
+    "message": "Are you ready to get started?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:12:17",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:12:19",
+    "message": {"lat":55.94609870154801,"lng":-3.20081022981296},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 11:12:19",
+    "message": "\\Great!\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:12:20",
+    "message": "Please take me to a public work of art that is transformative...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:12:21",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:12:22",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:29:47",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:29:49",
+    "message": "\\What are we looking at? Take a pic and tell me it’s name.\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:29:49",
+    "message": {"lat":55.95155908474215,"lng":-3.188730132564968},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 11:29:49",
+    "message": "IMG_0096.JPG",
+    "orgin": "img"
+  },
+  {
+    "time": "03/05/2018 11:30:27",
+    "message": "and it’s name.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:30:48",
+    "message": "Scotsman Steps",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:30:49",
+    "message": "Alright, I am gonna ask some deep questions now.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:30:50",
+    "message": "Who or what is this transformative for and why?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:32:42",
+    "message": "This art work was part of a project to refurbish and transform an existing staircase and important route between the Old and New Towns.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:32:43",
+    "message": "Are others affected?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:32:52",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:32:54",
+    "message": "Who and Why?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:37:16",
+    "message": "Users of the Steps are able to enjoy the transformation that has taken place. The stone Steps have been overlaid in Marble. This artwork was conceived by Martin Creed. Each marble was carefully selected. Each step is a different marble from a different geographical location. The ascent/descent of the Steps takes you on a journey to all those countries. The overall assembly is very attractive.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:37:17",
+    "message": "Users of the Steps are able to enjoy the transformation that has taken place. The stone Steps have been overlaid in Marble. This artwork was conceived by Martin Creed. Each marble was carefully selected. Each step is a different marble from a different geographical location. The ascent/descent of the Steps takes you on a journey to all those countries. The overall assembly is very attractive.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:37:36",
+    "message": "Users of the Steps are able to enjoy the transformation that has taken place. The stone Steps have been overlaid in Marble. This artwork was conceived by Martin Creed. Each marble was carefully selected. Each step is a different marble from a different geographical location. The ascent/descent of the Steps takes you on a journey to all those countries. The overall assembly is very attractive.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:37:38",
+    "message": "Users of the Steps are able to enjoy the transformation that has taken place. The stone Steps have been overlaid in Marble. This artwork was conceived by Martin Creed. Each marble was carefully selected. Each step is a different marble from a different geographical location. The ascent/descent of the Steps takes you on a journey to all those countries. The overall assembly is very attractive.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:41",
+    "message": "The Steps used to be a place of antisocial behaviour and people were afraid to use the route. The artwork encourage more footfall and consequently it is a safer better environment. The artwork encourages the owner- CEC, to take pride in the stairway and maintain it better than before. Everyone benefits.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:42",
+    "message": "The Steps used to be a place of antisocial behaviour and people were afraid to use the route. The artwork encourage more footfall and consequently it is a safer better environment. The artwork encourages the owner- CEC, to take pride in the stairway and maintain it better than before. Everyone benefits.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:45",
+    "message": "The Steps used to be a place of antisocial behaviour and people were afraid to use the route. The artwork encourage more footfall and consequently it is a safer better environment. The artwork encourages the owner- CEC, to take pride in the stairway and maintain it better than before. Everyone benefits.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:47",
+    "message": "Could you please expand on the quality, taste, and appropriateness of this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:40:51",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:53",
+    "message": "Focus on any or all points and take a pic if it helps.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:40:54",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:40:59",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:40:59",
+    "message": "IMG_0097.JPG",
+    "orgin": "img"
+  },
+  {
+    "time": "03/05/2018 11:41:29",
+    "message": "Beautiful marble",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:41:30",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:41:36",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:44:51",
+    "message": "Each marble is individually  beautiful and many textures and colours have been chosen. My favourites are the one photographed which looked like it has living veins through it, and the blue one on the very top step. The detailing and workmanship was to the highest quality. It feels as though the Steps were always built of marble.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:44:52",
+    "message": "Each marble is individually  beautiful and many textures and colours have been chosen. My favourites are the one photographed which looked like it has living veins through it, and the blue one on the very top step. The detailing and workmanship was to the highest quality. It feels as though the Steps were always built of marble.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:44:56",
+    "message": "Each marble is individually  beautiful and many textures and colours have been chosen. My favourites are the one photographed which looked like it has living veins through it, and the blue one on the very top step. The detailing and workmanship was to the highest quality. It feels as though the Steps were always built of marble.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:45:24",
+    "message": "More photos?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:45:26",
+    "message": "More photos?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:45:28",
+    "message": "More photos?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:45:31",
+    "message": "Could you expand on the context about this work of art?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:45:42",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:45:44",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:50:53",
+    "message": "The idea came to EWH to reinvigorate the Steps through conservation of the historic structure and public art. The fruit market gallery joined up with them and CEC to develop a project after the police had concerns that it was only a matter of time until there was a murder there. Martin Creed was chosen. This was not the first idea that he had for the Steps but it is more successful. The opening was timed to be part of an exhibition at the gallery. The theme of the exhibition was inspired by the Steps project.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:50:54",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:50:56",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:50:58",
+    "message": "Would you like to say anything else about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:51:02",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 11:51:04",
+    "message": "\\Great let’s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:51:04",
+    "message": {"lat":55.9516051747221,"lng":-3.1888117756945813},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 11:51:05",
+    "message": "Please take me to a public work of art that is contentious...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:51:06",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 11:51:07",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:04:04",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:04:06",
+    "message": {"lat":55.94764857396237,"lng":-3.188991083483627},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 12:04:06",
+    "message": "\\What are we looking at? Take a pic and tell me it’s name.\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:04:06",
+    "message": "IMG_0098.JPG",
+    "orgin": "img"
+  },
+  {
+    "time": "03/05/2018 12:04:22",
+    "message": "and it’s name.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:04:31",
+    "message": "",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:04:32",
+    "message": "What makes this work of art contentious? And for whom?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:17:59",
+    "message": "This a statue of William Playfair, architect. It is contentious because it is a new statue in a 'historic' style. It could deceive tourists into thinking about that it was made in the 18 th century. Some people would say that this is dishonest or inauthentic, that a more contemporary style should be used. It is also contentious to erect such a statue of a man at a time when there is a growing realisation that too few women from history or current times have been commemorated. Is it appropriate to fill the city with more statues of white men? Young women today want to see role models more relevant to them. It may als be contentious in that it's location required another existing statue to be relocated to face the new one. Some people feel that it was not appropriate to do thA. The statue of William Chamber is somehow diminished by the new scheme. It previously dominated the street ( as it was designed/ intended to do. I also find the materials and size ( and choice of sculptor) contentious as it was very expensive. It was commissioned by a few wealthy and influential men in this city. Is it fair that the city only gains the new public  art that this narrow group favour? art",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:18:00",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:18:21",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:18:23",
+    "message": "Our research shows contention raises issues of inclusivity and exclusivity... Does this work of art have issues with inclusivity and exclusivity?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:18:32",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:18:34",
+    "message": "What are the issues and affected parties? Take a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:18:35",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:18:42",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:18:42",
+    "message": "IMG_0099.JPG",
+    "orgin": "img"
+  },
+  {
+    "time": "03/05/2018 12:19:02",
+    "message": "",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:19:04",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:19:13",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:22:47",
+    "message": "As I said, it is another white man ( we have a lot of similar statues already) do women feel this right/ fair? It was commissioned by influential people with the ability raise significant funds, how do less wealthy people go about influencing/ choosing public art that represents their values/ interests?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:22:48",
+    "message": "As I said, it is another white man ( we have a lot of similar statues already) do women feel this right/ fair? It was commissioned by influential people with the ability raise significant funds, how do less wealthy people go about influencing/ choosing public art that represents their values/ interests?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:22:49",
+    "message": "As I said, it is another white man ( we have a lot of similar statues already) do women feel this right/ fair? It was commissioned by influential people with the ability raise significant funds, how do less wealthy people go about influencing/ choosing public art that represents their values/ interests?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:22:52",
+    "message": "Similarly contentious works of art have elements of trust and risk. Can you expand on either or both?",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:23:04",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:23:06",
+    "message": "No, why not?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:24:23",
+    "message": "Not sure if either of these are relevant to this case other than the risk that Edinburgh is seen as 'stuck in the past '.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:24:24",
+    "message": "Would you like to say anything more about this work of art or any issue related?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:24:39",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:24:41",
+    "message": "Tell me about it and take a pic if it helps...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:24:42",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:24:44",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:26:07",
+    "message": "The style and materials are very appropriate for the setting but possibly prohibitively costly for most projects in the economic environment we have today.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:26:08",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:26:10",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:26:12",
+    "message": {"lat":55.94774128351407,"lng":-3.1886623529666247},
+    "orgin": "geo"
+  },
+  {
+    "time": "03/05/2018 12:26:12",
+    "message": "\\Great let’s move on...\\",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:26:13",
+    "message": "Could you please take me to a public space that could use a new work of art or somewhere where a public work of art could be replaced?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:26:14",
+    "message": "Ok, let me know when we get there.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:26:16",
+    "message": "Are we there yet?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:38:15",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:38:17",
+    "message": "Are we placing or replacing?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:38:29",
+    "message": "Replace",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:38:31",
+    "message": "What are we replacing and why? Please take a pic...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:38:31",
+    "message": "IMG_0100.JPG",
+    "orgin": "img"
+  },
+  {
+    "time": "03/05/2018 12:39:49",
+    "message": "Poetry quotation, erected by Unesco City of Literature trust I think.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:39:50",
+    "message": "How does this disrupt the space? And who will be affected and why?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:40:45",
+    "message": "It's not that it disrupts the space but that the space could benefit from something more peanemt",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:40:46",
+    "message": "Could you list the agencies, parties and individuals that should be involved for placing a work of art here?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:40:57",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:41:26",
+    "message": "It's not that it disrupts the space but that the space could benefit from something more permanent, visible etc.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:41:27",
+    "message": "Is that all?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:41:29",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:41:31",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:44:29",
+    "message": "CEC planners, public art officer, conservation/ museum officer, EWH, old town association, EOTDT, community council, fruitmarket gallery, EAF, ARtisan.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:44:30",
+    "message": "CEC planners, public art officer, conservation/ museum officer, EWH, old town association, EOTDT, community council, fruitmarket gallery, EAF, ARtisan.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:44:32",
+    "message": "CEC planners, public art officer, conservation/ museum officer, EWH, old town association, EOTDT, community council, fruitmarket gallery, EAF, ARtisan.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:44:34",
+    "message": "Our research shows the process for a public art project can lack transparency for interested parties. Given the place and potentiality for a work of art here, can you imagine what a transparent process would be?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:44:43",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:44:45",
+    "message": "Please give me insight by steps or association and order-of groups involved.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:49:24",
+    "message": "Workshops to create a strategy. Public engagement throughout process. In formation on website and on site to explain what is proposed. Add gallery of modern art to group to advise on strategy if necessary.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:49:25",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:49:37",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:50:16",
+    "message": "Be careful that the potential funder/s",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:50:17",
+    "message": "Be careful that the potential funder/s",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:50:18",
+    "message": "Be careful that the potential funder/s",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:53:21",
+    "message": "Don't skew the process so that the artwork becomes something corporate, poor in artistic terms. Listen to what residents would also like to see. Allow young people to get involved and keep open minded. Aim for the best quality/ artist to compliment the historic artwork.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:53:22",
+    "message": "Don't skew the process so that the artwork becomes something corporate, poor in artistic terms. Listen to what residents would also like to see. Allow young people to get involved and keep open minded. Aim for the best quality/ artist to compliment the historic artwork.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:53:23",
+    "message": "Don't skew the process so that the artwork becomes something corporate, poor in artistic terms. Listen to what residents would also like to see. Allow young people to get involved and keep open minded. Aim for the best quality/ artist to compliment the historic artwork.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:53:26",
+    "message": "Well, that’s a lot to think about... Are there any other issues that you would like to address in the context of process?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:53:43",
+    "message": "Funding & Maintenance",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:53:45",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:53:46",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:53:50",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:55:22",
+    "message": "You can see the existing artwork is needing maintenance. This is a difficult issue and should be foremost in considering the brief for a permanent work.",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:55:24",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:55:29",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:55:31",
+    "message": "Would you Like to address a different issue?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:55:35",
+    "message": "Authority & Responsibility",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:55:37",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:55:38",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:55:40",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:57:46",
+    "message": "It is important that there is strategy rather than allowing developers and pressure groups to dictate the art in the public realm. We should take some risks, be adventurous but aim for the highest quality to enhance the WHS.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:57:47",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:58:08",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:58:10",
+    "message": "Go on...",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 12:59:02",
+    "message": "Should there be artists/ experts on any working group perhaps.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:59:04",
+    "message": "Should there be artists/ experts on any working group perhaps.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:59:08",
+    "message": "Should there be artists/ experts on any working group perhaps.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:59:10",
+    "message": "Should there be artists/ experts on any working group perhaps.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:59:26",
+    "message": "Should there be artists/ experts on any working group perhaps.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 12:59:29",
+    "message": "In this place and process, what expertise does the public have to offer?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:01:14",
+    "message": "Not sure",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:01:16",
+    "message": "Anything else to add?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:01:17",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:01:20",
+    "message": "Our research indicates particular issues are left out of the conversation when logistics and process take precedent about the use of a public space. Can you reflect on...?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:01:35",
+    "message": "Enjoyment & Pleasure",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:01:37",
+    "message": "Please explain, add a pic if it helps",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:01:39",
+    "message": "Want to take a pic?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:01:44",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:02:36",
+    "message": "This should be foremost along side placemaking  otherwise",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:02:37",
+    "message": "Anything else?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:02:39",
+    "message": "Yes",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:04:11",
+    "message": "If the art is not enjoyed or provoked perhaps then it has failed or is a missed opportunity. It should engage all ages if poss.",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:04:12",
+    "message": "Would you Like to address a different issue?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:04:20",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:04:23",
+    "message": "Would you like to say anything more about any issues related to our current conversation?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:04:26",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:04:28",
+    "message": "That’s pretty much everything!",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:04:29",
+    "message": "Thank you for your patience and participation But before you return me, do you have anything you would like to underscore or add to the conversation?",
+    "orgin": "bot"
+  },
+  {
+    "time": "03/05/2018 13:04:34",
+    "message": "No",
+    "orgin": "human"
+  },
+  {
+    "time": "03/05/2018 13:04:36",
+    "message": "That’s all good. You’ve been a great help towards this research....",
+    "orgin": "bot"
+  }
+]
