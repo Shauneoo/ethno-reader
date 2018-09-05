@@ -1,5 +1,8 @@
 # Ethno-reader
 
+##About
+Ethno-reader is intended to visualise the data from [ethnobotV2](https://github.com/Shauneoo/ethnobotV2.0).
+
 ## Getting Started / Installing
 1. Download or Clone Repository
 2. Open terminal and `cd` into repository
